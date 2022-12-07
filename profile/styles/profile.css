@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+    background-color: #898AA6;
+}
+
+.img {
+    float: left;
+    margin: 1rem;
+    width: 8%; 
+}
+
+.pfl-desc {
+    float: left;
+    width: 80%;
+}
+
+.profile-name {
+    margin: 1rem;
+    color: #400D51;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}
+
+.role {
+    margin: 1rem;
+    color: #400D51;
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 25px;
+}
+
+.location {
+    margin: 1rem;
+    color: #400D51;
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 18px;
+}
+
+
+.section1 {
+    clear: left;
+    float: left;
+    width: 50%;
+}
+
+.section2 {
+    float: left;
+    width: 25%;
+    border-left: 1px solid #4C0033;
+    padding-left: 1.25rem;
+}
+
+.section3 {
+    clear: both;
+    width: 100%;
+}
+
+.section4 {
+    clear: both;
+    width: 100%;
+}
+
+.about, .skills, .experience, .education {
+    color: #4C0033;
+}
+
+.detail1, .detail2, .detail3 {
+    color: #980F5A;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.info1, .info2, .info3 {
+    color: #980F5A;
+    font-weight: 900px;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
